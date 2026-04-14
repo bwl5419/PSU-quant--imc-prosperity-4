@@ -1,0 +1,9 @@
+.DS_Store
+.CFUserTextEncoding
+.claude.json
+.vscode/
+.antigravity/
+__pycache__/
+*.pyc
+*.webloc
+Lock
